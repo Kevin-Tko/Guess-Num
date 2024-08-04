@@ -188,6 +188,9 @@ p {
 /*media query */
 /* ******************************* */
 @media (max-width: 68.75em) {
+    .game {
+        width: 100%;
+    }
     .header {
         flex-direction: column;
         align-items: center;
